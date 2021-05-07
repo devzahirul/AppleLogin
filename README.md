@@ -1,2 +1,2 @@
 # AppleLogin
-Login with Apple ios 
+Sign in with Apple using SwiftUI 
